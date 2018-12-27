@@ -1,0 +1,24 @@
+[submodule "after-dark"]
+	path = after-dark
+	url = https://github.com/comfusion/after-dark
+[submodule "casper"]
+	path = casper
+	url = https://github.com/vjeantet/hugo-theme-casper
+[submodule "ghostwriter"]
+	path = ghostwriter
+	url = https://github.com/jbub/ghostwriter
+[submodule "hugo-code-editor-theme"]
+	path = hugo-code-editor-theme
+	url = https://github.com/aubm/hugo-code-editor-theme
+[submodule "hugo-creative-theme"]
+	path = hugo-creative-theme
+	url = https://github.com/digitalcraftsman/hugo-creative-theme
+[submodule "hugo-elate-theme"]
+	path = hugo-elate-theme
+	url = https://github.com/saey55/hugo-elate-theme
+[submodule "hugo-theme-air"]
+	path = hugo-theme-air
+	url = https://github.com/syui/hugo-theme-air
+[submodule "hugoscroll"]
+	path = hugoscroll
+	url = https://github.com/SenjinDarashiva/hugoscroll
